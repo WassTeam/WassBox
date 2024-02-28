@@ -16,6 +16,13 @@ Wassbox is a very easy to use multi-protocol proxy client.
   
 The advantage over other multi-protocol clients is that it's very easy to get started and doesn't even require a tutorial. The disadvantage is that it is not customizable.
 
+## UI
+<p>
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-1.png" width="33%" />
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-2.png" width="33%" />
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-3.png" width="33%" />
+</p>
+
 ## Feature
 Shadowrocket is very simple and complete. wassbox is compatible with shadowrocket subscription method, which means that any link that can be subscribed to by shadowrocket is also supported by wassbox.
 
