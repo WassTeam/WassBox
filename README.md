@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/banner.png" />
 
-<p align="center">
+
+
+# WassBox
+<p>
     <a href="https://github.com/wassteam/wassbox/releases" alt="Release">
         <img src="https://img.shields.io/badge/Release-1.0.0-green" /></a>
     <a href="https://x.com/wassboxapp" alt="x@wassboxapp">
@@ -8,8 +11,6 @@
     <a href="https://t.me/wassbox" alt="telegram@wassboxapp">
         <img src="https://img.shields.io/badge/Telegram-@WassBox-blue" /></a>
 </p>
-
-# WassBox
 
 Wassbox is a very easy to use multi-protocol proxy client.   
   
