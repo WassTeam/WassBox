@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/banner.png" />
 
 <p align="center">
-    <a href="https://x.com/wassboxapp" alt="X.com">
-      <img src="https://img.shields.io/badge/X.com-@WassBoxApp-black" />
+    <a href="https://x.com/wassboxapp">
+      <img src="https://img.shields.io/badge/X.com-@WassBoxApp-black" alt="X.com" />
     </a>
-    <a href="https://github.com/WassTeam/WassBox/releases" alt="Release">
-      <img src="https://img.shields.io/badge/Release-1.0.0-green" />
+    <a href="https://github.com/WassTeam/WassBox/releases">
+      <img src="https://img.shields.io/badge/Release-1.0.0-green" alt="Release"/>
     </a>
 </p>
 
