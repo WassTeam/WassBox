@@ -50,3 +50,6 @@ Shadowrocket and Singbox are excellent products. We use singbox core and in theo
 ## Follow US
 - [X.com](https://x.com/wassboxapp)
 - [Telegram](https://t.me/wassbox)
+
+## Report
+Feedback on bugs via Github Issue, or contact us using x.com.
