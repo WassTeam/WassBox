@@ -41,6 +41,7 @@ Shadowrocket is very simple and complete. wassbox is compatible with shadowrocke
 Shadowrocket and Singbox are excellent products. We use singbox core and in theory we support most of Shadowrocket protocols.
 - Shadowsocks
 - Shadowsocks 2022
+- Shadowsocks Obfs
 - Vmess
 - Trojan
 - Vless
