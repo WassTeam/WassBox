@@ -18,9 +18,9 @@ The advantage over other multi-protocol clients is that it's very easy to get st
 
 ## UI
 <p>
-    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-1.png" width="33%" />
-    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-2.png" width="33%" />
-    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-3.png" width="33%" />
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-1.png" width="32%" />
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-2.png" width="32%" />
+    <img src="https://raw.githubusercontent.com/WassTeam/WassBox/main/screen-3.png" width="32%" />
 </p>
 
 ## Feature
