@@ -42,6 +42,7 @@ Shadowrocket and Singbox are excellent products. We use singbox core and in theo
 - Shadowsocks
 - Shadowsocks 2022
 - Shadowsocks Obfs
+- Shadowsocks R
 - Vmess
 - Trojan
 - Vless
