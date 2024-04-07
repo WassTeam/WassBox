@@ -5,7 +5,7 @@
 # WassBox
 <p>
     <a href="https://github.com/wassteam/wassbox/releases" alt="Release">
-        <img src="https://img.shields.io/badge/Release-1.0.0-green" /></a>
+        <img src="https://img.shields.io/badge/Release-1.0.3-green" /></a>
     <a href="https://x.com/wassboxapp" alt="x@wassboxapp">
         <img src="https://img.shields.io/badge/X.com-@WassBoxApp-black" /></a>
     <a href="https://t.me/wassbox" alt="telegram@wassboxapp">
